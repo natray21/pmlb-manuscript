@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/" />
+  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/" />
+  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: 'PMLB v1.0: an open source dataset collection for benchmarking machine le
 
 <small><em>
 This manuscript
-([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/))
+([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/))
 was automatically generated
-from [EpistasisLab/pmlb-manuscript@a6b66b1](https://github.com/EpistasisLab/pmlb-manuscript/tree/a6b66b10eab4a908f5e02a7327efda76f0c9eda3)
+from [EpistasisLab/pmlb-manuscript@a3d466e](https://github.com/EpistasisLab/pmlb-manuscript/tree/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3)
 on September 10, 2020.
 </em></small>
 
@@ -160,7 +160,7 @@ In this paper, we reviewed existing functionality and presented new enhancements
 
 Since its initial release, we have made major improvements in the collection of datasets as well as other helpful supporting features.
 We have redesigned the repository structure, and the collection now has benchmark datasets for regression problems (Fig. {@fig:home-chart}).
-Each dataset also has a metadata.yaml file --- an example of can be viewed [here](https://github.com/EpistasisLab/penn-ml-benchmarks/blob/master/datasets/molecular_biology_promoters/metadata.yaml).
+To fulfill several users' [request](https://github.com/EpistasisLab/penn-ml-benchmarks/issues/13), each dataset also has a metadata.yaml file --- an example of can be viewed [here](https://github.com/EpistasisLab/penn-ml-benchmarks/blob/master/datasets/molecular_biology_promoters/metadata.yaml).
 As the name suggests, these files contain general information about the datasets themselves.
 Specifically, for each dataset, the metadata file includes the link to the original source of the dataset, a general description, the publication associated with the dataset generation, the type of problem (i.e., classification or regression), keywords (e.g., simulation, ecological, bioinformatics), and the features’ description and their coding (e.g., ‘non-promoter’= 0,  ‘promoter’= 1).
 
