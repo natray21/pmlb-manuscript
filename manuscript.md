@@ -1,6 +1,12 @@
 ---
 author-meta:
 - Trang T. Le
+- William La Cava
+- Joe Romano
+- Daniel Goldberg
+- Praneel Chakraborty
+- Natasha Ray
+- Weixuan Fu
 - Jason H. Moore
 bibliography:
 - content/manual-references.json
@@ -47,6 +53,54 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@trang1618" />
 
+  <meta name="citation_author" content="William La Cava" />
+
+  <meta name="citation_author_institution" content="None" />
+
+  <meta name="citation_author_orcid" content="None" />
+
+  <meta name="twitter:creator" content="@None" />
+
+  <meta name="citation_author" content="Joe Romano" />
+
+  <meta name="citation_author_institution" content="None" />
+
+  <meta name="citation_author_orcid" content="None" />
+
+  <meta name="twitter:creator" content="@None" />
+
+  <meta name="citation_author" content="Daniel Goldberg" />
+
+  <meta name="citation_author_institution" content="None" />
+
+  <meta name="citation_author_orcid" content="None" />
+
+  <meta name="twitter:creator" content="@None" />
+
+  <meta name="citation_author" content="Praneel Chakraborty" />
+
+  <meta name="citation_author_institution" content="None" />
+
+  <meta name="citation_author_orcid" content="None" />
+
+  <meta name="twitter:creator" content="@None" />
+
+  <meta name="citation_author" content="Natasha Ray" />
+
+  <meta name="citation_author_institution" content="None" />
+
+  <meta name="citation_author_orcid" content="None" />
+
+  <meta name="twitter:creator" content="@None" />
+
+  <meta name="citation_author" content="Weixuan Fu" />
+
+  <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104" />
+
+  <meta name="citation_author_orcid" content="0000-0002-6434-5468" />
+
+  <meta name="twitter:creator" content="@weixuanfu" />
+
   <meta name="citation_author" content="Jason H. Moore" />
 
   <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104" />
@@ -67,11 +121,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/" />
+  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/" />
 
-  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/" />
+  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +157,9 @@ title: 'PMLB v1.0: an open source dataset collection for benchmarking machine le
 
 <small><em>
 This manuscript
-([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/))
+([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/))
 was automatically generated
-from [EpistasisLab/pmlb-manuscript@ecd3f23](https://github.com/EpistasisLab/pmlb-manuscript/tree/ecd3f23e631782f121c073d0871069b120906b7c)
+from [EpistasisLab/pmlb-manuscript@3ed0845](https://github.com/EpistasisLab/pmlb-manuscript/tree/3ed08452103285173846e98e2752b7eb7e39ba48)
 on September 10, 2020.
 </em></small>
 
@@ -120,6 +174,42 @@ on September 10, 2020.
     [trang1618](https://github.com/trang1618)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
     [trang1618](https://twitter.com/trang1618)<br>
+  <small>
+     Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
+  </small>
+
++ **William La Cava**<br><br>
+  <small>
+     None
+  </small>
+
++ **Joe Romano**<br><br>
+  <small>
+     None
+  </small>
+
++ **Daniel Goldberg**<br><br>
+  <small>
+     None
+  </small>
+
++ **Praneel Chakraborty**<br><br>
+  <small>
+     None
+  </small>
+
++ **Natasha Ray**<br><br>
+  <small>
+     None
+  </small>
+
++ **Weixuan Fu**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-6434-5468](https://orcid.org/0000-0002-6434-5468)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [weixuanfu](https://github.com/weixuanfu)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [weixuanfu](https://twitter.com/weixuanfu)<br>
   <small>
      Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   </small>
