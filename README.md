@@ -1,4 +1,4 @@
-# Automated scholarly manuscripts on GitHub
+# PMLB v1.0: an open source dataset collection for benchmarking machine learning methods
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
@@ -12,7 +12,7 @@
 
 <!-- usage note: edit this section. -->
 
-This manuscript describes the motivation, significance and various functionalities of [PMLB v1.0](https://epistasislab.github.io/penn-ml-benchmarks/).
+This manuscript describes the motivation, significance and new functionalities of [PMLB v1.0](https://epistasislab.github.io/penn-ml-benchmarks/).
 
 ## Manubot
 
