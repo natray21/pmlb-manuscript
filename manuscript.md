@@ -1,10 +1,10 @@
 ---
 author-meta:
-- John Doe
-- Jane Roe
+- Trang T. Le
+- Jason H. Moore
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-04'
+date-meta: '2020-09-10'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -15,17 +15,17 @@ header-includes: '<!--
 
   <meta name="dc.format" content="text/html" />
 
-  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="dc.title" content="PMLB v1.0: an open source dataset collection for benchmarking machine learning methods" />
 
-  <meta name="citation_title" content="Manuscript Title" />
+  <meta name="citation_title" content="PMLB v1.0: an open source dataset collection for benchmarking machine learning methods" />
 
-  <meta property="og:title" content="Manuscript Title" />
+  <meta property="og:title" content="PMLB v1.0: an open source dataset collection for benchmarking machine learning methods" />
 
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="PMLB v1.0: an open source dataset collection for benchmarking machine learning methods" />
 
-  <meta name="dc.date" content="2020-09-04" />
+  <meta name="dc.date" content="2020-09-10" />
 
-  <meta name="citation_publication_date" content="2020-09-04" />
+  <meta name="citation_publication_date" content="2020-09-10" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -39,21 +39,21 @@ header-includes: '<!--
 
   <meta name="citation_technical_report_institution" content="Manubot" />
 
-  <meta name="citation_author" content="John Doe" />
+  <meta name="citation_author" content="Trang T. Le" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author_orcid" content="0000-0003-3737-6565" />
 
-  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="twitter:creator" content="@trang1618" />
 
-  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author" content="Jason H. Moore" />
 
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104" />
 
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="0000-0002-5015-1099" />
 
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="twitter:creator" content="@moorejh" />
 
   <link rel="canonical" href="https://EpistasisLab.github.io/pmlb-manuscript/" />
 
@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/" />
+  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/" />
 
-  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/" />
+  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -85,15 +85,15 @@ header-includes: '<!--
 
   <!-- end Manubot generated metadata -->'
 keywords:
-- markdown
-- publishing
-- manubot
+- machine learning
+- benchmarking
+- open source
 lang: en-US
 manubot-clear-requests-cache: false
 manubot-output-bibliography: output/references.json
 manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
-title: Manuscript Title
+title: 'PMLB v1.0: an open source dataset collection for benchmarking machine learning methods'
 ...
 
 
@@ -103,35 +103,37 @@ title: Manuscript Title
 
 <small><em>
 This manuscript
-([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/))
+([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/))
 was automatically generated
-from [EpistasisLab/pmlb-manuscript@958af8d](https://github.com/EpistasisLab/pmlb-manuscript/tree/958af8d6c228e1a29baac40bc9fe1a0ab0930050)
-on September 4, 2020.
+from [EpistasisLab/pmlb-manuscript@a6b66b1](https://github.com/EpistasisLab/pmlb-manuscript/tree/a6b66b10eab4a908f5e02a7327efda76f0c9eda3)
+on September 10, 2020.
 </em></small>
 
 ## Authors
 
 
 
-+ **John Doe**<br>
++ **Trang T. Le**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0003-3737-6565](https://orcid.org/0000-0003-3737-6565)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
+    [trang1618](https://github.com/trang1618)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [trang1618](https://twitter.com/trang1618)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
+     Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   </small>
 
-+ **Jane Roe**<br>
++ **Jason H. Moore**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    [0000-0002-5015-1099](https://orcid.org/0000-0002-5015-1099)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
+    [EpistasisLab](https://github.com/EpistasisLab)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [moorejh](https://twitter.com/moorejh)<br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+     Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
+     · Funded by National Institutes of Health Grant Nos. LM010098 and AI116794.
   </small>
 
 
@@ -140,6 +142,82 @@ on September 4, 2020.
 
 
 
+
+## Introduction
+
+Benchmarking is a standard practice to illustrate the strengths and weaknesses of algorithms regarding different problem characteristics.
+In machine learning (ML), benchmarking often involves assessing the performance of the ML models, namely how well they predict labels for new samples (supervised learning) or detect patterns among samples with no pre-existing labels (unsupervised learning) in a group of benchmark datasets.
+Compiled from a broad range of existing ML benchmark collection, the Penn Machine Learning Benchmark (PMLB) unified publicly available datasets from large repositories such as Kaggle and OpenML, enabling systematic assessment of different ML methods.
+
+The first release of PMLB received overwhelmingly positive feedback from the ML community, reflecting the pressing need for a collection of standardized datasets to evaluate models.
+As the repository becomes more widely used, community members have requested new features such as additional information about the datasets as well as new functions to select datasets given specific criteria.
+In this paper, we reviewed existing functionality and presented new enhancements that help facilitate the user and contributor's frictionless interaction with the repository.
+
+
+## Methods
+
+### New datasets with rich metadata
+
+Since its initial release, we have made major improvements in the collection of datasets as well as other helpful supporting features.
+We have redesigned the repository structure, and the collection now has benchmark datasets for regression problems (Fig. {@fig:home-chart}).
+Each dataset also has a metadata.yaml file --- an example of can be viewed [here](https://github.com/EpistasisLab/penn-ml-benchmarks/blob/master/datasets/molecular_biology_promoters/metadata.yaml).
+As the name suggests, these files contain general information about the datasets themselves.
+Specifically, for each dataset, the metadata file includes the link to the original source of the dataset, a general description, the publication associated with the dataset generation, the type of problem (i.e., classification or regression), keywords (e.g., simulation, ecological, bioinformatics), and the features’ description and their coding (e.g., ‘non-promoter’= 0,  ‘promoter’= 1).
+
+![Characteristics of datasets in the PMLB collection](images/pmlb-home-chart.png){#fig:home-chart width="100%"}
+
+We are grateful for the open source contributors who have gradually increased the number of datasets with metadata.
+By carefully examining the data source and gather important information about the dataset, contributors have flagged serious issues with some datasets such as the [incorrect column](https://github.com/EpistasisLab/penn-ml-benchmarks/issues/54) assigned as 'target' in the [bupa](https://github.com/EpistasisLab/penn-ml-benchmarks/tree/master/datasets/bupa) dataset.
+
+### User-friendly interfaces
+
+On the project PMLB [home page](https://epistasislab.github.io/penn-ml-benchmarks/), the user can now browse, sort, filter and search from a lookup table of datasets with summary statistics (Fig. {@fig:home-tab}).
+To select datasets with specific parameters, one can type in the box at the bottom of each numeric column in the format `low ... high`.
+For example, if the user wants to view all _classification_ datasets with _80 to 100 observations_, they would select _classification_ at the bottom of `Task` and type `80 ... 100` at the bottom of the `n_observations` column.
+The `CSV` button enables the download of the table with selected criteria.
+
+![The user can browse, sort, filter and search the summary statistics table](images/pmlb-home-tab.png){#fig:home-tab width="100%"}
+
+On this main website, we also publish a detailed contribution guide with step-by-step instruction on how to get started.
+Our goal was to simplify the steps newcomers need to take to contribute.
+Specifically, we have automated many of these steps with continuous integration using the GitHub Actions service.
+When a new dataset is added, its summary statistics (e.g., number of observations, number of classes, etc.) is automatically computed, its profiling report is generated (see below), a corresponding metadata template is added to the dataset folder, and the list of dataset names is updated.
+Other checks included in the continuous integration workflow also help reduce both the reviewer and contributor’s workload.
+
+In addition to the Python library, we have integrated an [R library](https://github.com/EpistasisLab/pmlb) -- both can be simply installed with `pip install pmlb` or `install.packages('pmlb')`, respectively.
+This R library has been adapted from a [separate repository](https://github.com/makeyourownmaker/pmlblite) that seemed to be unmaintained.
+However, because the original source code was released under a [GPL-2 license](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html), we were able to adapt the code to make it compatible with the new repository structure in this release and additional functionality.
+Is detailed vignettes also make PMLB a helpful resource for new users to begin testing their methods with benchmark datasets.
+These vignettes contain straightforward examples of how to automate the tedious task of comparing different ML methods on all the benchmark datasets based on specified metrics.
+
+#### Pandas profiling reports 
+
+For each dataset, we use [pandas profiling](https://pandas-profiling.github.io/pandas-profiling/) to provide a report for exploratory analysis.
+In addition to descriptive statistics of the features as provided by `pandas.describe` (Python) or `skimr::skim` (R), pandas profiling gives a more extensive exploration of the dataset such as correlation structure among the features and flaggings of duplicate rows.
+Browsing a report allows a user or contributor to easily assess the dataset quality and make necessary changes.
+For example, if a feature is flagged as having a unique value for each row in the report, it is likely that this feature is an observation identifier and should be removed from the dataset.
+
+The profiling reports can be accessed by clicking on the dataset name in the data table or the data point in the interactive chart on the home page.
+Alternatively, all the reports can be viewed on the repository's [gh-pages](https://github.com/EpistasisLab/penn-ml-benchmarks/tree/gh-pages/profile) branch.
+
+### Efficiency
+
+We have significantly reduced the repository size and started to track all data files with [Git Large File Storage](https://git-lfs.github.com/) for efficient cloning of the repository.
+With the Large File Storage service, we now store large files on the GitHub.com remote server (with no limits on data storage) and include text pointers to these files in our repository.
+Users who want to interact with the entire repository on their local machine only need git LFS [installed and set up for their user account](https://git-lfs.github.com/) or download the zip file from GitHub.
+
+### New functionality
+
+PMLB now includes original data rows with missing data (i.e., NA). 
+The core function of PMLB, fetch_data(), retains previous behavior (`dropna=True`) by default, which excludes all rows with missing data. 
+However, if the user chooses to treat the missing values differently, they can use fetch_data() with the option `dropna=False` to obtain the original dataset and apply their own removal or imputation method.
+
+Defining the neighborhood to be the datasets' metadata/characteristics space, we also enabled the option to select the nearest PMLB datasets given a data frame.
+This functionality would be helpful for users who would like to find PMLB datasets with similar characteristics to their own to make inference on their dataset, e.g., where to start the hyperparameter search.
+An API reference that details the user-facing functions and variables within the PMLB python library is included in the PMLB page.
+
+
+## Results and Discussion
 
 ## References {.page_break_before}
 

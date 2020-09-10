@@ -1,18 +1,18 @@
 {
   "pandoc": {
-    "title": "Manuscript Title",
+    "title": "PMLB v1.0: an open source dataset collection for benchmarking machine learning methods",
     "keywords": [
-      "markdown",
-      "publishing",
-      "manubot"
+      "machine learning",
+      "benchmarking",
+      "open source"
     ],
     "lang": "en-US",
-    "date-meta": "2020-09-04",
+    "date-meta": "2020-09-10",
     "author-meta": [
-      "John Doe",
-      "Jane Roe"
+      "Trang T. Le",
+      "Jason H. Moore"
     ],
-    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"Manuscript Title\" />\n<meta name=\"citation_title\" content=\"Manuscript Title\" />\n<meta property=\"og:title\" content=\"Manuscript Title\" />\n<meta property=\"twitter:title\" content=\"Manuscript Title\" />\n<meta name=\"dc.date\" content=\"2020-09-04\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-04\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"John Doe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<meta name=\"twitter:creator\" content=\"@johndoe\" />\n<meta name=\"citation_author\" content=\"Jane Roe\" />\n<meta name=\"citation_author_institution\" content=\"Department of Something, University of Whatever\" />\n<meta name=\"citation_author_institution\" content=\"Department of Whatever, University of Something\" />\n<meta name=\"citation_author_orcid\" content=\"XXXX-XXXX-XXXX-XXXX\" />\n<link rel=\"canonical\" href=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta property=\"og:url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
+    "header-includes": "<!--\nManubot generated metadata rendered from header-includes-template.html.\nSuggest improvements at https://github.com/manubot/manubot/blob/master/manubot/process/header-includes-template.html\n-->\n<meta name=\"dc.format\" content=\"text/html\" />\n<meta name=\"dc.title\" content=\"PMLB v1.0: an open source dataset collection for benchmarking machine learning methods\" />\n<meta name=\"citation_title\" content=\"PMLB v1.0: an open source dataset collection for benchmarking machine learning methods\" />\n<meta property=\"og:title\" content=\"PMLB v1.0: an open source dataset collection for benchmarking machine learning methods\" />\n<meta property=\"twitter:title\" content=\"PMLB v1.0: an open source dataset collection for benchmarking machine learning methods\" />\n<meta name=\"dc.date\" content=\"2020-09-10\" />\n<meta name=\"citation_publication_date\" content=\"2020-09-10\" />\n<meta name=\"dc.language\" content=\"en-US\" />\n<meta name=\"citation_language\" content=\"en-US\" />\n<meta name=\"dc.relation.ispartof\" content=\"Manubot\" />\n<meta name=\"dc.publisher\" content=\"Manubot\" />\n<meta name=\"citation_journal_title\" content=\"Manubot\" />\n<meta name=\"citation_technical_report_institution\" content=\"Manubot\" />\n<meta name=\"citation_author\" content=\"Trang T. Le\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0003-3737-6565\" />\n<meta name=\"twitter:creator\" content=\"@trang1618\" />\n<meta name=\"citation_author\" content=\"Jason H. Moore\" />\n<meta name=\"citation_author_institution\" content=\"Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104\" />\n<meta name=\"citation_author_orcid\" content=\"0000-0002-5015-1099\" />\n<meta name=\"twitter:creator\" content=\"@moorejh\" />\n<link rel=\"canonical\" href=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta property=\"og:url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta property=\"twitter:url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta name=\"citation_fulltext_html_url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/\" />\n<meta name=\"citation_pdf_url\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"application/pdf\" href=\"https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf\" />\n<link rel=\"alternate\" type=\"text/html\" href=\"https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/\" />\n<meta name=\"manubot_html_url_versioned\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/\" />\n<meta name=\"manubot_pdf_url_versioned\" content=\"https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/manuscript.pdf\" />\n<meta property=\"og:type\" content=\"article\" />\n<meta property=\"twitter:card\" content=\"summary_large_image\" />\n<link rel=\"icon\" type=\"image/png\" sizes=\"192x192\" href=\"https://manubot.org/favicon-192x192.png\" />\n<link rel=\"mask-icon\" href=\"https://manubot.org/safari-pinned-tab.svg\" color=\"#ad1457\" />\n<meta name=\"theme-color\" content=\"#ad1457\" />\n<!-- end Manubot generated metadata -->",
     "bibliography": [
       "content/manual-references.json"
     ],
@@ -22,49 +22,45 @@
     "manubot-clear-requests-cache": false
   },
   "manubot": {
-    "date": "September 4, 2020",
+    "date": "September 10, 2020",
     "authors": [
       {
-        "github": "johndoe",
-        "name": "John Doe",
-        "initials": "JD",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "twitter": "johndoe",
-        "email": "john.doe@something.com",
+        "github": "trang1618",
+        "name": "Trang T. Le",
+        "initials": "TTL",
+        "orcid": "0000-0003-3737-6565",
+        "twitter": "trang1618",
+        "email": "ttle@pennmedicine.upenn.edu",
         "affiliations": [
-          "Department of Something, University of Whatever"
-        ],
-        "funders": [
-          "Grant XXXXXXXX"
+          "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104"
         ],
         "affiliation_numbers": [
           1
         ]
       },
       {
-        "github": "janeroe",
-        "name": "Jane Roe",
-        "initials": "JR",
-        "orcid": "XXXX-XXXX-XXXX-XXXX",
-        "email": "jane.roe@whatever.edu",
+        "github": "EpistasisLab",
+        "name": "Jason H. Moore",
+        "initials": "JHM",
+        "orcid": "0000-0002-5015-1099",
+        "twitter": "moorejh",
+        "email": "jhmoore@upenn.edu",
         "affiliations": [
-          "Department of Something, University of Whatever",
-          "Department of Whatever, University of Something"
+          "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104"
         ],
+        "funders": [
+          "National Institutes of Health Grant Nos. LM010098 and AI116794."
+        ],
+        "symbol_str": "†",
         "affiliation_numbers": [
-          1,
-          2
+          1
         ]
       }
     ],
     "affiliations": [
       {
-        "affiliation": "Department of Something, University of Whatever",
+        "affiliation": "Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104",
         "affiliation_number": 1
-      },
-      {
-        "affiliation": "Department of Whatever, University of Something",
-        "affiliation_number": 2
       }
     ],
     "ci_source": {
@@ -72,19 +68,19 @@
       "repo_slug": "EpistasisLab/pmlb-manuscript",
       "repo_owner": "EpistasisLab",
       "repo_name": "pmlb-manuscript",
-      "commit": "958af8d6c228e1a29baac40bc9fe1a0ab0930050",
-      "triggering_commit": "958af8d6c228e1a29baac40bc9fe1a0ab0930050",
-      "build_url": "https://github.com/EpistasisLab/pmlb-manuscript/commit/958af8d6c228e1a29baac40bc9fe1a0ab0930050/checks",
+      "commit": "a6b66b10eab4a908f5e02a7327efda76f0c9eda3",
+      "triggering_commit": "a6b66b10eab4a908f5e02a7327efda76f0c9eda3",
+      "build_url": "https://github.com/EpistasisLab/pmlb-manuscript/commit/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/checks",
       "job_url": "https://github.com/EpistasisLab/pmlb-manuscript/runs/run3"
     },
     "html_url": "https://EpistasisLab.github.io/pmlb-manuscript/",
     "pdf_url": "https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf",
-    "html_url_versioned": "https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/",
-    "pdf_url_versioned": "https://EpistasisLab.github.io/pmlb-manuscript/v/958af8d6c228e1a29baac40bc9fe1a0ab0930050/manuscript.pdf",
+    "html_url_versioned": "https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/",
+    "pdf_url_versioned": "https://EpistasisLab.github.io/pmlb-manuscript/v/a6b66b10eab4a908f5e02a7327efda76f0c9eda3/manuscript.pdf",
     "manubot_version": "0.3.1",
     "rootstock_commit": "0964fd7ed7fdc1e3b468b5f4f1234d24de0b14fc",
     "manuscript_stats": {
-      "word_count": 246
+      "word_count": 1341
     }
   }
 }
