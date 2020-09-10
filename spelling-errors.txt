@@ -1,4 +1,4 @@
-Benchmarking
+benchmarking
 bioinformatics
 Biostatistics
 bupa

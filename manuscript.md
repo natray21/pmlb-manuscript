@@ -67,11 +67,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/" />
+  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/" />
 
-  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/" />
+  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -103,9 +103,9 @@ title: 'PMLB v1.0: an open source dataset collection for benchmarking machine le
 
 <small><em>
 This manuscript
-([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3/))
+([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/ecd3f23e631782f121c073d0871069b120906b7c/))
 was automatically generated
-from [EpistasisLab/pmlb-manuscript@a3d466e](https://github.com/EpistasisLab/pmlb-manuscript/tree/a3d466ecf57f4fd4e7b53fbdf5f307f17566f3d3)
+from [EpistasisLab/pmlb-manuscript@ecd3f23](https://github.com/EpistasisLab/pmlb-manuscript/tree/ecd3f23e631782f121c073d0871069b120906b7c)
 on September 10, 2020.
 </em></small>
 
