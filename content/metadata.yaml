@@ -16,14 +16,14 @@ authors:
     affiliations:
       - Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   -
-    github:
+    github: lacava
     name: William La Cava
-    initials:
-    orcid:
-    twitter:
-    email:
+    initials: WL
+    orcid: 0000-0002-1332-2960
+    twitter: w_la_cava
+    email: lacava@upenn.edu
     affiliations:
-      - 
+      - Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   -
     github:
     name: Joe Romano
