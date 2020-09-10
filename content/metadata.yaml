@@ -16,6 +16,60 @@ authors:
     affiliations:
       - Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   -
+    github:
+    name: William La Cava
+    initials:
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - 
+  -
+    github:
+    name: Joe Romano
+    initials:
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - 
+  -
+    github:
+    name: Daniel Goldberg
+    initials:
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - 
+  -
+    github:
+    name: Praneel Chakraborty
+    initials:
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - 
+  -
+    github:
+    name: Natasha Ray
+    initials:
+    orcid:
+    twitter:
+    email:
+    affiliations:
+      - 
+  -
+    github: weixuanfu
+    name: Weixuan Fu
+    initials: WF
+    orcid: 0000-0002-6434-5468
+    twitter: weixuanfu
+    email: weixuanf@pennmedicine.upenn.edu
+    affiliations:
+      - Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
+  -
     github: EpistasisLab
     name: Jason H. Moore
     initials: JHM
