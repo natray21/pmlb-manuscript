@@ -25,14 +25,15 @@ authors:
     affiliations:
       - Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   -
-    github:
-    name: Joe Romano
-    initials:
-    orcid:
-    twitter:
-    email:
+    github: jdromano2
+    name: Joseph D. Romano
+    initials: JDR
+    orcid: 0000-0002-7999-4399
+    twitter: jdromano2
+    email: joseph.romano@pennmedicine.upenn.edu
     affiliations:
-      - 
+      - Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
+      - Center of Excellence in Environmental Toxicology, University of Pennsylvania, Philadelphia, PA 19104
   -
     github:
     name: Daniel Goldberg
