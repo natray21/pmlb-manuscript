@@ -1,4 +1,4 @@
-benchmarking
+Benchmarking
 bioinformatics
 Biostatistics
 bupa
@@ -13,6 +13,7 @@ Fu
 gh
 GPL
 hyperparameter
+jdromano
 Kaggle
 lacava
 LFS

@@ -2,7 +2,7 @@
 author-meta:
 - Trang T. Le
 - William La Cava
-- Joe Romano
+- Joseph D. Romano
 - Daniel Goldberg
 - Praneel Chakraborty
 - Natasha Ray
@@ -61,13 +61,15 @@ header-includes: '<!--
 
   <meta name="twitter:creator" content="@w_la_cava" />
 
-  <meta name="citation_author" content="Joe Romano" />
+  <meta name="citation_author" content="Joseph D. Romano" />
 
-  <meta name="citation_author_institution" content="None" />
+  <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104" />
 
-  <meta name="citation_author_orcid" content="None" />
+  <meta name="citation_author_institution" content="Center of Excellence in Environmental Toxicology, University of Pennsylvania, Philadelphia, PA 19104" />
 
-  <meta name="twitter:creator" content="@None" />
+  <meta name="citation_author_orcid" content="0000-0002-7999-4399" />
+
+  <meta name="twitter:creator" content="@jdromano2" />
 
   <meta name="citation_author" content="Daniel Goldberg" />
 
@@ -121,11 +123,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/" />
+  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/69ab204e2eee46f0f6812a9364936eb2d9ee86a2/" />
 
-  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/" />
+  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/69ab204e2eee46f0f6812a9364936eb2d9ee86a2/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/69ab204e2eee46f0f6812a9364936eb2d9ee86a2/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -157,9 +159,9 @@ title: 'PMLB v1.0: an open source dataset collection for benchmarking machine le
 
 <small><em>
 This manuscript
-([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/))
+([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/69ab204e2eee46f0f6812a9364936eb2d9ee86a2/))
 was automatically generated
-from [EpistasisLab/pmlb-manuscript@1b9b49b](https://github.com/EpistasisLab/pmlb-manuscript/tree/1b9b49b64664abcb829e7932b1577b35a5c8f166)
+from [EpistasisLab/pmlb-manuscript@69ab204](https://github.com/EpistasisLab/pmlb-manuscript/tree/69ab204e2eee46f0f6812a9364936eb2d9ee86a2)
 on September 11, 2020.
 </em></small>
 
@@ -189,9 +191,15 @@ on September 11, 2020.
      Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   </small>
 
-+ **Joe Romano**<br><br>
++ **Joseph D. Romano**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-7999-4399](https://orcid.org/0000-0002-7999-4399)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [jdromano2](https://github.com/jdromano2)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [jdromano2](https://twitter.com/jdromano2)<br>
   <small>
-     None
+     Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104; Center of Excellence in Environmental Toxicology, University of Pennsylvania, Philadelphia, PA 19104
   </small>
 
 + **Daniel Goldberg**<br><br>
