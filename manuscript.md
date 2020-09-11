@@ -10,7 +10,7 @@ author-meta:
 - Jason H. Moore
 bibliography:
 - content/manual-references.json
-date-meta: '2020-09-10'
+date-meta: '2020-09-11'
 header-includes: '<!--
 
   Manubot generated metadata rendered from header-includes-template.html.
@@ -29,9 +29,9 @@ header-includes: '<!--
 
   <meta property="twitter:title" content="PMLB v1.0: an open source dataset collection for benchmarking machine learning methods" />
 
-  <meta name="dc.date" content="2020-09-10" />
+  <meta name="dc.date" content="2020-09-11" />
 
-  <meta name="citation_publication_date" content="2020-09-10" />
+  <meta name="citation_publication_date" content="2020-09-11" />
 
   <meta name="dc.language" content="en-US" />
 
@@ -55,11 +55,11 @@ header-includes: '<!--
 
   <meta name="citation_author" content="William La Cava" />
 
-  <meta name="citation_author_institution" content="None" />
+  <meta name="citation_author_institution" content="Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104" />
 
-  <meta name="citation_author_orcid" content="None" />
+  <meta name="citation_author_orcid" content="0000-0002-1332-2960" />
 
-  <meta name="twitter:creator" content="@None" />
+  <meta name="twitter:creator" content="@w_la_cava" />
 
   <meta name="citation_author" content="Joe Romano" />
 
@@ -121,11 +121,11 @@ header-includes: '<!--
 
   <link rel="alternate" type="application/pdf" href="https://EpistasisLab.github.io/pmlb-manuscript/manuscript.pdf" />
 
-  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/" />
+  <link rel="alternate" type="text/html" href="https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/" />
 
-  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/" />
+  <meta name="manubot_html_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/" />
 
-  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/manuscript.pdf" />
+  <meta name="manubot_pdf_url_versioned" content="https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/manuscript.pdf" />
 
   <meta property="og:type" content="article" />
 
@@ -157,10 +157,10 @@ title: 'PMLB v1.0: an open source dataset collection for benchmarking machine le
 
 <small><em>
 This manuscript
-([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/3ed08452103285173846e98e2752b7eb7e39ba48/))
+([permalink](https://EpistasisLab.github.io/pmlb-manuscript/v/1b9b49b64664abcb829e7932b1577b35a5c8f166/))
 was automatically generated
-from [EpistasisLab/pmlb-manuscript@3ed0845](https://github.com/EpistasisLab/pmlb-manuscript/tree/3ed08452103285173846e98e2752b7eb7e39ba48)
-on September 10, 2020.
+from [EpistasisLab/pmlb-manuscript@1b9b49b](https://github.com/EpistasisLab/pmlb-manuscript/tree/1b9b49b64664abcb829e7932b1577b35a5c8f166)
+on September 11, 2020.
 </em></small>
 
 ## Authors
@@ -178,9 +178,15 @@ on September 10, 2020.
      Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   </small>
 
-+ **William La Cava**<br><br>
++ **William La Cava**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [0000-0002-1332-2960](https://orcid.org/0000-0002-1332-2960)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [lacava](https://github.com/lacava)
+    · ![Twitter icon](images/twitter.svg){.inline_icon}
+    [w_la_cava](https://twitter.com/w_la_cava)<br>
   <small>
-     None
+     Department of Biostatistics, Epidemiology and Informatics, Institute for Biomedical Informatics, University of Pennsylvania, Philadelphia, PA 19104
   </small>
 
 + **Joe Romano**<br><br>
